@@ -2,7 +2,7 @@
 #include<fstream>
 #include<string>
 #include<cstdlib>
-#include"lab2.h"
+#include"BMI.h"
 using namespace std;
   void BMI::setHeight(float h){
     Height=h;
